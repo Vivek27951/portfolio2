@@ -29,8 +29,12 @@ export default function about() {
               keen interest to learn and work on impactful projects.
             </p>
           </div>
-          <div style={{ marginTop: "280px" }}>
-            <Image src="/../public/p4.png" width="600" height="600"></Image>
+          <div style={{ marginTop: "65px" , marginBottom: "2px" }}>
+//             <Image src="/../public/p4.png" width="600" height="600"></Image>
+            <img
+              src="/p4.png"
+              style={{ height: "500px", width: "500px" }}
+            ></img>
           </div>
         </div>
       </div>
