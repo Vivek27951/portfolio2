@@ -17,7 +17,11 @@ export default function work() {
             <li style={{ margin: "50px" }}>
               <h1>
                 <span style={{ padding: "30px" }}>
-                  <Image src="/../public/m.png" height="30" width="30"></Image>
+//                   <Image src="/../public/m.png" height="30" width="30"></Image>
+                  <img
+                    src="/m.png"
+                    style={{ height: "35px", width: "35px" }}
+                  ></img>
                 </span>
                 <span className={s.company}>Microland</span> as Technology
                 Intern - Automation
@@ -34,7 +38,11 @@ export default function work() {
             <li>
               <h1>
                 <span style={{ marginRight: "20px" }}>
-                  <Image src="/../public/a.png" height="30" width="30"></Image>
+//                   <Image src="/../public/a.png" height="30" width="30"></Image>
+                  <img
+                    src="/a.png"
+                    style={{ height: "40px", width: "40px" }}
+                  ></img>
                 </span>
                 <span className={s.company}>Axis Bank</span> as Data Analyst
                 Intern
@@ -56,7 +64,11 @@ export default function work() {
             <li>
               <h1>
                 <span style={{ marginRight: "20px" }}>
-                  <Image src="/../public/w.png" height="40" width="40"></Image>
+//                   <Image src="/../public/w.png" height="40" width="40"></Image>
+                  <img
+                    src="/w.png"
+                    style={{ height: "40px", width: "40px" }}
+                  ></img>
                 </span>
                 <span className={s.company}>Widhya</span> as SDE Intern
               </h1>
