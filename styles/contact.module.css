@@ -1,0 +1,23 @@
+.g:hover {
+  color: #201f1f;
+}
+
+.e:hover {
+  color: red;
+}
+
+.f:hover {
+  color: #1d428a;
+}
+
+.i:hover {
+  color: #f01acce8;
+}
+
+.l:hover {
+  color: #38b8f3;
+}
+
+.sz:hover {
+  font-size: 50px;
+}

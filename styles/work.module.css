@@ -1,0 +1,26 @@
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 10px 20px 0 red;
+  transition: 0.3s;
+  color: red;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 10px 20px 0 yellow;
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+  width: 500px;
+}
+
+.company {
+  color: red;
+}
+
+.ci:hover {
+  border: 20px;
+  border-color: white;
+}
