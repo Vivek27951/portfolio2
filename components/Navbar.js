@@ -14,11 +14,6 @@ export default function Navbar() {
               <li>About</li>
             </a>
           </Link>
-          <Link href="/contact">
-            <a>
-              <li>Contact</li>
-            </a>
-          </Link>
           <Link href="/skills">
             <a>
               <li>Skills</li>
@@ -32,6 +27,11 @@ export default function Navbar() {
           <Link href="/certificate">
             <a>
               <li>Certificate</li>
+            </a>
+          </Link>
+          <Link href="/contact">
+            <a>
+              <li>Contact</li>
             </a>
           </Link>
         </ul>
