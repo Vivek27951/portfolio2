@@ -12,7 +12,7 @@ const Header = () => {
       <div className={styles.text_box} style={{ display: "flex" }}>
         <div style={{ alignItems: "start", marginTop: "295px" }}>
 //           <Image src="/../public/p3.png" width="350" height="350"></Image>
-//           <img src="/p3.png" style={{ height: "350px", width: "400px" }}></img>
+          <img src="/p3.png" style={{ height: "350px", width: "400px" }}></img>
         </div>
         <div
           style={{ alignItems: "end", marginLeft: "230px", marginTop: "150px" }}
